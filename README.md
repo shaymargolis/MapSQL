@@ -37,7 +37,7 @@ Exmaple of updating:
     cafe_to_update := map[string]interface{} {
         "name": "The *Hilarious* Club",
         "chain": "OtherHilariousChain",
-        "is_kosher": 1, // Other Column that we wish to chain
+        "is_kosher": 1, // Other Column that we wish to change
     }
     err := insertCafe(insertedID, cafe_to_insert)
     if err != nil {

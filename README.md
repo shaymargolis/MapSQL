@@ -24,7 +24,7 @@ Example of inserting:
         fmt.Prinln(err)
     } else {
         // All was fine. the function will insert to table `cafe` cafe with name "The club" and chain "Aroma".
-        fmt.Println(insertedID)
+        fmt.Println("We? Did it! inserted id: ", insertedID)
     }
     
 Exmaple of updating:

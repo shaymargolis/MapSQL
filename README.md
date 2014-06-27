@@ -1,7 +1,7 @@
 MapSQL
 ======
 
-Library written in go for inserting or updating MySQL Tables with `map[string]interface{}` Will save you the time to write insert function again and again for every table!
+a *very* simple library written in go for inserting or updating MySQL Tables with `map[string]interface{}` Will save you the time to write insert function again and again for every table!
 
 Usage
 ======
